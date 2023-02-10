@@ -11,7 +11,11 @@ file.write(
 file.close()  # закрываем файл
 print("Программа завершила работу")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("^_^")
+=======
+print("^.^")
+>>>>>>> new_branch
 =======
 print("^.^")
 >>>>>>> new_branch
