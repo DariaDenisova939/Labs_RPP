@@ -9,4 +9,5 @@ file.write(
     "N: " + str(n) + " M: " + str(m) + "\n" + "Matrix: "+ "\n" + np.array2string(arr) + "\n" + "Result: " + "\n" + str(
         res))  # выводим результат и исходные данные в файл
 file.close()  # закрываем файл
-print("Программа завершила свою работу")
+print("Программа завершила работу")
+print("^_^")
